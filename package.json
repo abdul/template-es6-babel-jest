@@ -1,7 +1,7 @@
 {
     "name": "jest-test",
     "version": "1.0.0",
-    "description": "Jest Test Testing",
+    "description": "Sample Project Structure: ES6, Babel and JEST",
     "main": "index.js",
     "scripts": {
         "test": "jest"
